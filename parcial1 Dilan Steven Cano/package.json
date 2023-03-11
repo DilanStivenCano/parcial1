@@ -1,0 +1,25 @@
+{
+  "name": "parcial1",
+  "version": "1.0.0",
+  "description": "parcial1",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve",
+    "build": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DilanStivenCano/parcial1.git"
+  },
+  "author": "dilan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DilanStivenCano/parcial1.git/issues"
+  },
+  "homepage": "https://github.com/DilanStivenCano/parcial1.git#readme",
+  "devDependencies": {
+    "serve": "^14.2.0",
+    "webpack": "^5.76.1",
+    "webpack-cli": "^5.0.1"
+  }
+}
